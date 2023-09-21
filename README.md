@@ -1,7 +1,7 @@
 # ``` GOOGLE SEARCH ```
 I'm thrilled to present my latest project GoogleSearch, A Fully responsive Google clone single-page application using React.js, Tailwind CSS, and the Google Custom Search API. Leveraging advanced technologies, I utilized React.js for building the frontend, Tailwind CSS for elegant styling, and integrated the Google Custom Search API for real-time search results. This project showcased my proficiency in fundamental React.js concepts, including JSX, components, props, state management, lifecycle methods, conditional rendering, lists with keys, and the Context API.
 
-![Webp net-gifmaker](https://user-images.githubusercontent.com/53748350/268497276-f3dee07e-c736-4676-a603-a5619a20f66d.gif)
+![Webp net-gifmaker](https://user-images.githubusercontent.com/53748350/269544164-2b19de38-3196-4397-832e-8bb9cbf59259.gif)
  
  
 
