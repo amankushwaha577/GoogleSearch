@@ -4,7 +4,7 @@ I'm thrilled to present my latest project GoogleSearch, A Fully responsive Googl
 ![Webp net-gifmaker](https://user-images.githubusercontent.com/53748350/269544164-2b19de38-3196-4397-832e-8bb9cbf59259.gif)
  
  
-
+ 
   -  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `1. Fetching Data from Google Custom Search API: To implement clone functional, I have Implemented logic to fetch search results from the Google Custom Search API. We  need an API key and the API endpoint. Use fetch or a library like Axios to make HTTP requests.`
     
    - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `2.Created the User Interface: Designed a visually appealing and responsive user interface using Tailwind CSS. Tailwind's utility classes make it easy to create a modern and clean look. `
